@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSenderService", "FileSenderService\FileSenderService.csproj", "{BA8AA94A-0C7A-4814-BEF6-B9E44FF63BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeTranscriptionService", "FakeTranscriptionService\FakeTranscriptionService.csproj", "{0C11EC71-1F50-4971-8134-CB29F3B11151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSenderService.Tests", "FileSenderService.Tests\FileSenderService.Tests.csproj", "{6A29423C-9510-4E4E-95E9-A0120AA08814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8AA94A-0C7A-4814-BEF6-B9E44FF63BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8AA94A-0C7A-4814-BEF6-B9E44FF63BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8AA94A-0C7A-4814-BEF6-B9E44FF63BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8AA94A-0C7A-4814-BEF6-B9E44FF63BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C11EC71-1F50-4971-8134-CB29F3B11151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C11EC71-1F50-4971-8134-CB29F3B11151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C11EC71-1F50-4971-8134-CB29F3B11151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C11EC71-1F50-4971-8134-CB29F3B11151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A29423C-9510-4E4E-95E9-A0120AA08814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A29423C-9510-4E4E-95E9-A0120AA08814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A29423C-9510-4E4E-95E9-A0120AA08814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A29423C-9510-4E4E-95E9-A0120AA08814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
